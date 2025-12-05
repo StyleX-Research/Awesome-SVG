@@ -7,8 +7,8 @@
 
 ## 📋 Table of Contents
 
-- [🛠️ Tools](#️-tools)
 - [📚 Papers](#-papers)
+- [🛠️ Tools](#️-tools)
 - [🚀 Open Source Projects](#-open-source-projects)
 
 ---
