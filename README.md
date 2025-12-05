@@ -72,7 +72,7 @@
 - **[Vtracer](https://github.com/visioncortex/vtracer)** - Raster to Vector Graphics Converter.
 - **[CairoSVG](https://github.com/Kozea/CairoSVG)** - CairoSVG is an SVG converter based on Cairo. It can export SVG files to PDF, EPS, PS, and PNG files.
 - **[img2svg](https://github.com/loicland/img2svg)** - convert any image into svg.
-- 
+
 
 ### Online 
 - **[SVG Viewer](https://www.svgviewer.dev/)** - Web-based SVG editor and viewer
@@ -82,8 +82,6 @@
 
 ## 🚀 Open Source Projects
 - **[next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io/tree/main)** - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-- ****
-
 
 ---
 
