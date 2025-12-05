@@ -1,6 +1,6 @@
 # Awesome-SVG 🎨
 
-> A curated list of awesome SVG resources, tools, papers, and open-source projects for processing, learning, rendering, and all related materials.
+> This repository catalogs cutting-edge research papers, practical tools, datasets, and learning materials for AI-powered SVG generation, processing, and manipulation.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
