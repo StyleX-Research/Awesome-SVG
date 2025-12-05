@@ -17,7 +17,6 @@
 
 > All papers are in chronological order, from newest to oldest
 
-### 2025
 - OmniSVG: A Unified Scalable Vector Graphics Generation Model, 2025-12-01, http://arxiv.org/abs/2504.06263
 - Rendering-Aware Reinforcement Learning for Vector Graphics Generation,2025-11-30, http://arxiv.org/abs/2505.20793
 - SVG360: Multi-View SVG Generation with Geometric and Color Consistency from a Single SVG, 2025-11-20, http://arxiv.org/abs/2511.16766
@@ -68,50 +67,39 @@
 
 ## 🛠️ Tools
 
-### Design & Creation
-- **[Tool Name](https://example.com)** - Brief description of what this tool does
-- **[Another Tool](https://example.com)** - Another tool description
+### Code Libraries
+- **[Picosvg](https://github.com/googlefonts/picosvg)** - Helps simplify SVG files. Intended for use as part of a font build.
+- **[Vtracer](https://github.com/visioncortex/vtracer)** - Raster to Vector Graphics Converter.
+- **[CairoSVG](https://github.com/Kozea/CairoSVG)** - CairoSVG is an SVG converter based on Cairo. It can export SVG files to PDF, EPS, PS, and PNG files.
+- **[img2svg](https://github.com/loicland/img2svg)** - convert any image into svg.
+- 
 
-### Online Editors
-- **[Online Editor](https://example.com)** - Web-based SVG editor
-- **[Another Editor](https://example.com)** - Another online editor
-
-### Conversion & Optimization
-- **[Converter Tool](https://example.com)** - SVG conversion utility
-- **[Optimizer](https://example.com)** - SVG optimization tool
-
+### Online 
+- **[SVG Viewer](https://www.svgviewer.dev/)** - Web-based SVG editor and viewer
+ 
 ---
 
 
 ## 🚀 Open Source Projects
+- **[next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io/tree/main)** - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+- ****
 
-### SVG Libraries
-- **[Library Name](https://github.com/user/repo)** - Brief description of the library
-- **[Another Library](https://github.com/user/repo)** - Another library description
-
-### React & Vue Components
-- **[React Component](https://github.com/user/repo)** - React SVG component
-- **[Vue Component](https://github.com/user/repo)** - Vue SVG component
-
-### Animation Libraries
-- **[Animation Lib](https://github.com/user/repo)** - SVG animation library
-- **[Another Animation](https://github.com/user/repo)** - Another animation tool
-
-### Icon Systems
-- **[Icon Set](https://github.com/user/repo)** - SVG icon collection
-- **[Another Icons](https://github.com/user/repo)** - Another icon system
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! If you know of any great resources related to AIGC-SVG that should be included, please feel free to share them.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### How to Contribute
+
+Simply **open an issue** with the following information:
+
+- **Resource Name**: The name of the tool/paper/dataset/etc.
+- **Category**: Which section it belongs to (Papers, Tools, Datasets, etc.)
+- **Link**: URL to the resource
+- **Description**: Brief description of what it is and why it's useful
+- **Tags** (optional): Year, conference, keywords, etc.
 
 ---
 
