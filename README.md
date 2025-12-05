@@ -13,6 +13,24 @@
 
 ---
 
+## 📚 Papers
+
+### Computer Graphics & Rendering
+- **[Paper Title](https://arxiv.org/abs/xxxx.xxxxx)** - Brief description of the paper
+- **[Another Paper](https://ieeexplore.ieee.org/document/xxxxxxx)** - Another paper description
+
+### Machine Learning & AI
+- **[AI Paper](https://arxiv.org/abs/xxxx.xxxxx)** - AI/ML related SVG paper
+- **[ML Research](https://arxiv.org/abs/xxxx.xxxxx)** - Machine learning research
+
+### Data Visualization
+- **[Viz Paper](https://dl.acm.org/doi/10.1145/xxxxxxx)** - Data visualization paper
+- **[Chart Research](https://example.com)** - Chart and graph research
+
+
+
+---
+
 ## 🛠️ Tools
 
 ### Design & Creation
@@ -29,21 +47,6 @@
 
 ---
 
-## 📚 Papers
-
-### Computer Graphics & Rendering
-- **[Paper Title](https://arxiv.org/abs/xxxx.xxxxx)** - Brief description of the paper
-- **[Another Paper](https://ieeexplore.ieee.org/document/xxxxxxx)** - Another paper description
-
-### Machine Learning & AI
-- **[AI Paper](https://arxiv.org/abs/xxxx.xxxxx)** - AI/ML related SVG paper
-- **[ML Research](https://arxiv.org/abs/xxxx.xxxxx)** - Machine learning research
-
-### Data Visualization
-- **[Viz Paper](https://dl.acm.org/doi/10.1145/xxxxxxx)** - Data visualization paper
-- **[Chart Research](https://example.com)** - Chart and graph research
-
----
 
 ## 🚀 Open Source Projects
 
