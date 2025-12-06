@@ -26,43 +26,44 @@
 5. See it. Say it. Sorted: Agentic System for Compositional Diagram Generation, 2025/11/16, http://arxiv.org/abs/2508.15222
 6. Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models, 2025/11/12, http://arxiv.org/abs/2411.16602
 7. SVG Decomposition for Enhancing Large Multimodal Models Visualization Comprehension: A Study with Floor Plans, 2025/11/5, http://arxiv.org/abs/2511.03478
-8. SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation, 2025/10/27, http://arxiv.org/abs/2509.24299
-9. SVGen: Interpretable Vector Graphics Generation with Large Language Models, 2025/10/27, http://arxiv.org/abs/2508.09168
-10. UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models, 2025/10/27, http://arxiv.org/abs/2508.07766
-11. RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance, 2025/10/26, http://arxiv.org/abs/2510.22684
-12. LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors, 2025/9/9, http://arxiv.org/abs/2509.07484
-13. SVGauge: Towards Human-Aligned Evaluation for SVG Generation, 2025/9/8, http://arxiv.org/abs/2509.07127
-14. Symbolic Graphics Programming with Large Language Models, 2025/9/5, http://arxiv.org/abs/2509.05208
-15. StarVector: Generating Scalable Vector Graphics Code from Images and Text, 2025/5/31, http://arxiv.org/abs/2312.11556
-16. Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation, 2025/5/30, http://arxiv.org/abs/2505.24499
-17. Style Customization of Text-to-Vector Generation with Image Diffusion Priors, 2025/5/15, http://arxiv.org/abs/2505.10558
-18. Socratic Chart: Cooperating Multiple Agents for Robust SVG Chart Understanding, 2025/4/14, http://arxiv.org/abs/2504.09764
-19. SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers, 2025/4/11, http://arxiv.org/abs/2412.10488
-20. Empowering LLMs to Understand and Generate Complex Vector Graphics, 2025/3/25, http://arxiv.org/abs/2412.11102
-21. SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion, 2025/3/23, http://arxiv.org/abs/2412.10437
-22. From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics, 2025/3/10, http://arxiv.org/abs/2503.07429
-23. Transformer-Based Vector Font Classification Using Different Font Formats: TrueType versus PostScript, 2025/2/1, http://arxiv.org/abs/2502.00250
-24. NeuralSVG: An Implicit Representation for Text-to-Vector Generation, 2025/1/7, https://arxiv.org/abs/2501.03992
-25. SVGDreamer: Text Guided SVG Generation with Diffusion Model, 2024/12/17, http://arxiv.org/abs/2312.16476
-26. SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation, 2024/12/13, http://arxiv.org/abs/2411.17832
-27. DeepIcon: A Hierarchical Network for Layer-wise Icon Vectorization, 2024/10/21, http://arxiv.org/abs/2410.15760
-28. Vector Grimoire: Codebook-based Shape Generation under Raster Image Supervision, 2024/10/8, http://arxiv.org/abs/2410.05991
-29. Image Vectorization with Depth: convexified shape layers with depth ordering, 2024/9/10, http://arxiv.org/abs/2409.06648
-30. Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding, 2024/7/11, http://arxiv.org/abs/2306.06094
-31. SuperSVG: Superpixel-based Scalable Vector Graphics Synthesis, 2024/6/14, http://arxiv.org/abs/2406.09794
-32. Text-to-Vector Generation with Neural Path Representation, 2024/5/20, http://arxiv.org/abs/2405.10317
-33. Exploring the Capability of LLMs in Performing Low-Level Visual Analytic Tasks on SVG Data Visualizations, 2024/5/1, http://arxiv.org/abs/2404.19097
-34. SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model, 2023/12/25, http://arxiv.org/abs/2311.05276
-35. VectorTalker: SVG Talking Face Generation with Progressive Vectorisation, 2023/12/18, http://arxiv.org/abs/2312.11568
-36. Beyond Pixels: Exploring Human-Readable SVG Generation for Simple Images with Vision Language Models, 2023/11/27, http://arxiv.org/abs/2311.15543
-37. DIVI: Dynamically Interactive Visualization, 2023/11/5, http://arxiv.org/abs/2310.17814
-38. Text-Guided Vector Graphics Customization, 2023/9/21, http://arxiv.org/abs/2309.12302
-39. IconShop: Text-Guided Vector Icon Synthesis with Autoregressive Transformers, 2023/6/7, http://arxiv.org/abs/2304.14400
-40. VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models, 2022/11/21, http://arxiv.org/abs/2211.11319
-41. SVG-Net: An SVG-based Trajectory Prediction Model, 2021/10/11, http://arxiv.org/abs/2110.03706
-42. Cloud2Curve: Generation and Vectorization of Parametric Sketches, 2021/3/29, http://arxiv.org/abs/2103.15536
-43. DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation, 2020/10/22, http://arxiv.org/abs/2007.11301
-44. BézierSketch: A generative model for scalable vector sketches, 2020/7/14, http://arxiv.org/abs/2007.02190
+8. VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation, 2025/11/4, https://arxiv.org/abs/2511.02778
+9. SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation, 2025/10/27, http://arxiv.org/abs/2509.24299
+10. SVGen: Interpretable Vector Graphics Generation with Large Language Models, 2025/10/27, http://arxiv.org/abs/2508.09168
+11. UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models, 2025/10/27, http://arxiv.org/abs/2508.07766
+12. RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance, 2025/10/26, http://arxiv.org/abs/2510.22684
+13. LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors, 2025/9/9, http://arxiv.org/abs/2509.07484
+14. SVGauge: Towards Human-Aligned Evaluation for SVG Generation, 2025/9/8, http://arxiv.org/abs/2509.07127
+15. Symbolic Graphics Programming with Large Language Models, 2025/9/5, http://arxiv.org/abs/2509.05208
+16. StarVector: Generating Scalable Vector Graphics Code from Images and Text, 2025/5/31, http://arxiv.org/abs/2312.11556
+17. Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation, 2025/5/30, http://arxiv.org/abs/2505.24499
+18. Style Customization of Text-to-Vector Generation with Image Diffusion Priors, 2025/5/15, http://arxiv.org/abs/2505.10558
+19. Socratic Chart: Cooperating Multiple Agents for Robust SVG Chart Understanding, 2025/4/14, http://arxiv.org/abs/2504.09764
+20. SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers, 2025/4/11, http://arxiv.org/abs/2412.10488
+21. Empowering LLMs to Understand and Generate Complex Vector Graphics, 2025/3/25, http://arxiv.org/abs/2412.11102
+22. SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion, 2025/3/23, http://arxiv.org/abs/2412.10437
+23. From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics, 2025/3/10, http://arxiv.org/abs/2503.07429
+24. Transformer-Based Vector Font Classification Using Different Font Formats: TrueType versus PostScript, 2025/2/1, http://arxiv.org/abs/2502.00250
+25. NeuralSVG: An Implicit Representation for Text-to-Vector Generation, 2025/1/7, https://arxiv.org/abs/2501.03992
+26. SVGDreamer: Text Guided SVG Generation with Diffusion Model, 2024/12/17, http://arxiv.org/abs/2312.16476
+27. SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation, 2024/12/13, http://arxiv.org/abs/2411.17832
+28. DeepIcon: A Hierarchical Network for Layer-wise Icon Vectorization, 2024/10/21, http://arxiv.org/abs/2410.15760
+29. Vector Grimoire: Codebook-based Shape Generation under Raster Image Supervision, 2024/10/8, http://arxiv.org/abs/2410.05991
+30. Image Vectorization with Depth: convexified shape layers with depth ordering, 2024/9/10, http://arxiv.org/abs/2409.06648
+31. Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding, 2024/7/11, http://arxiv.org/abs/2306.06094
+32. SuperSVG: Superpixel-based Scalable Vector Graphics Synthesis, 2024/6/14, http://arxiv.org/abs/2406.09794
+33. Text-to-Vector Generation with Neural Path Representation, 2024/5/20, http://arxiv.org/abs/2405.10317
+34. Exploring the Capability of LLMs in Performing Low-Level Visual Analytic Tasks on SVG Data Visualizations, 2024/5/1, http://arxiv.org/abs/2404.19097
+35. SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model, 2023/12/25, http://arxiv.org/abs/2311.05276
+36. VectorTalker: SVG Talking Face Generation with Progressive Vectorisation, 2023/12/18, http://arxiv.org/abs/2312.11568
+37. Beyond Pixels: Exploring Human-Readable SVG Generation for Simple Images with Vision Language Models, 2023/11/27, http://arxiv.org/abs/2311.15543
+38. DIVI: Dynamically Interactive Visualization, 2023/11/5, http://arxiv.org/abs/2310.17814
+39. Text-Guided Vector Graphics Customization, 2023/9/21, http://arxiv.org/abs/2309.12302
+40. IconShop: Text-Guided Vector Icon Synthesis with Autoregressive Transformers, 2023/6/7, http://arxiv.org/abs/2304.14400
+41. VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models, 2022/11/21, http://arxiv.org/abs/2211.11319
+42. SVG-Net: An SVG-based Trajectory Prediction Model, 2021/10/11, http://arxiv.org/abs/2110.03706
+43. Cloud2Curve: Generation and Vectorization of Parametric Sketches, 2021/3/29, http://arxiv.org/abs/2103.15536
+44. DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation, 2020/10/22, http://arxiv.org/abs/2007.11301
+45. BézierSketch: A generative model for scalable vector sketches, 2020/7/14, http://arxiv.org/abs/2007.02190
 
 
 ---
