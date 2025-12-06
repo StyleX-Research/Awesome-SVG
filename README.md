@@ -1,4 +1,4 @@
-![AIGC-SVG](https://github.com/StyleX-Research/Awesome-SVG-AIGC/blob/main/20251205%E4%B8%8B%E5%8D%8854939.jpg)
+![AIGC-SVG](https://github.com/StyleX-Research/Awesome-SVG-AIGC/blob/main/logo.jpg)
 
 # Awesome-SVG-AIGC 🎨
 
